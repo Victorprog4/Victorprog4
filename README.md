@@ -6,7 +6,6 @@
 </div>
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Victorprog4&theme=gotham&hide_border=true&area=true)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victoralf2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-b52890233/)
