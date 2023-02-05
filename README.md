@@ -5,18 +5,9 @@
 
 <br><br>
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorprog4&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorprog4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victoralf2/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-dev/)
-
-
-## My skills:
 <div><br>
+<h2>My skills</h2>
   <img align="center" alt="Vit-Js" height="30" width=110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Vit-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-e54c21?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Vit-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white">
@@ -26,6 +17,19 @@
   <img align="center" alt="Vit-CSS" height="30" width="80" src="https://img.shields.io/badge/Figma-fd7263?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="Vit-SasS" height="30" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
    <img align="center" alt="Vit-CSS" height="30" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div><br>
+    
+ <h2>Social</h2>
+  <a href="https://www.linkedin.com/in/vitor-hugo-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+   
+<br><br>
+                                                                                                                 
+<div>
+ <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Victorprog4&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
+  <img height="180em" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorprog4&layout=compact&theme=tokyonight" alt="Souzzs Most Languages" />
+  
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
